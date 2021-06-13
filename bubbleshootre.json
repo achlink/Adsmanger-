@@ -1,5 +1,5 @@
 {
-    "Version": "1.0.1",
+    "Version": "1.2.0",
     "DayTime": 0,
     "toolbarInt": 0,
     "EnableADSOnServer": true,
@@ -14,7 +14,7 @@
     "EditorGithubFileUrl": "",
     "EditorJumpShareFileUrl": "",
     "EditorMediafireFileUrl": "",
-    "Editorfiles_fmFileUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/EasyAdsJson.json",
+    "Editorfiles_fmFileUrl": "https://raw.githubusercontent.com/achlink/Adsmanger-/main/bubbleshootre.json",
     "Editorfiles_MySQLUrl": "",
     "EditorGoogledriveFileUrl": "",
     "EasyAdColony": {

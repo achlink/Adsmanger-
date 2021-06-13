@@ -25,11 +25,11 @@
         "RewardedZoneId": ""
     },
     "EasyAdmob": {
-        "UseEasyAdmob": true,
-        "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
-        "RewardedVideoId": "ca-app-pub-3940256099942544/5224354917",
-        "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
-        "BannerId": "ca-app-pub-3940256099942544/6300978111"
+        "UseEasyAdmob": false,
+        "AdmobAppId": "",
+        "RewardedVideoId": "",
+        "InterstitialId": "",
+        "BannerId": ""
     },
     "EasyAppLovin": {
         "UseEasyAppLovin": false,
